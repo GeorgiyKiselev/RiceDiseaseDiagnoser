@@ -1,4 +1,4 @@
-# STA141AFinalProject
+# RiceDiseaseDiagnoser
 [approved] CNNs for rice disease diagnosis
 
 as of 6/11/23 this project has been finished and no further changes will be made to the code or report. Some code may deprecate in the future. 
